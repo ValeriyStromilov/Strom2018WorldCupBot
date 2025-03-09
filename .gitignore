@@ -1,0 +1,11 @@
+#имя файла .gitignore
+
+#игнор файла key.env
+key.env
+
+#игнор других конфиденциальных файлов
+*.EnvironmentError
+
+world_cup_2018_data.csv
+
+__pycache__
